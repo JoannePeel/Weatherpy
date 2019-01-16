@@ -1,4 +1,4 @@
-# What-s-the-Weather-Like-
+
 ## WeatherPy
 *J. R. Peel*
 
