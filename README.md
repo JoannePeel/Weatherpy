@@ -28,6 +28,7 @@ Figure 4 shows wind speed in relationship to latitude. There was no trend observ
 Fig. 4. Wind speed vs latitude.
 
 *Conclusions* 
+
 There are more cities between 60° and 90° in the northern hemisphere than in the southern hemisphere.
 The temperature gradient is generally bell shaped, with the hump located around the equator, however, the northern hemisphere is currently experiencing winter conditions, so temperatures are lower in the northern regions. The highest temperatures may be associated to the presence of major deserts around -30° latitude.
 The lowest humilities were also observed around 30° on both sides of the equator, which may also be associated with the presence of desert regions.
